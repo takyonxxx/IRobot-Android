@@ -1,4 +1,4 @@
 IRobot
 ======
 
-Open GL Android Rajawali Exapmle 
+Open GL Android Rajawali Example 
